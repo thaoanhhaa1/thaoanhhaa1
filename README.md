@@ -1,6 +1,6 @@
 <h1 align="center">Hello World! I'm HaAnhThao 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=React+Developer;Node+Developer&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=React+Developer;Node+Developer;Next+Developer;Nest+Developer&center=true&width=500&height=50">
 </p>
 <div align="center"><img width="200px" src="https://i.pinimg.com/originals/4c/5b/68/4c5b68bb6f2cadd738fa852f32188fd2.gif"/> </div>
 <p align="left"> 
@@ -34,6 +34,7 @@
 ![Railway](https://img.shields.io/badge/-Railway-05122A?style=flat&logo=railway)&nbsp;
 ![Render](https://img.shields.io/badge/-Render-05122A?style=flat&logo=render)&nbsp;
 ![Koyeb](https://img.shields.io/badge/-Koyeb-05122A?style=flat&logo=koyeb)&nbsp;
+![VPS](https://img.shields.io/badge/-VPS-05122A?style=flat&logo=virtualprivatecloud)&nbsp;
 
 #### ⚡ Database
 
@@ -45,6 +46,7 @@
 ![H2](https://img.shields.io/badge/-H2-05122A?style=flat&logo=h2)&nbsp;
 ![Sql server](https://img.shields.io/badge/-SqlServer-05122A?style=flat&logo=microsoftsqlserver)&nbsp;
 ![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis)&nbsp;
+![Qdrant](https://img.shields.io/badge/-Qdrant-05122A?style=flat&logo=qdrant)&nbsp;
 
 #### 🖍 Design
 
@@ -63,6 +65,7 @@
 ![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
 ![Styled Components](https://img.shields.io/badge/-StyledComponents-05122A?style=flat&logo=styled-components)&nbsp;
 ![Material UI](https://img.shields.io/badge/-MaterialUI-05122A?style=flat&logo=material-ui)&nbsp;
+![Ant Design](https://img.shields.io/badge/-AntDesign-05122A?style=flat&logo=antdesign)&nbsp;
 ![MUI](https://img.shields.io/badge/-MUI-05122A?style=flat&logo=material-ui)&nbsp;
 ![Handlebars](https://img.shields.io/badge/-Handlebars-05122A?style=flat&logo=handlebars)&nbsp;
 ![JQuery](https://img.shields.io/badge/-JQuery-05122A?style=flat&logo=jquery)&nbsp;
@@ -72,23 +75,32 @@
 ![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux)&nbsp;
 ![Redux Toolkit](https://img.shields.io/badge/-ReduxToolkit-05122A?style=flat&logo=redux)&nbsp;
 ![Vite](https://img.shields.io/badge/-Vite-05122A?style=flat&logo=vite)&nbsp;
+![MetaMask](https://img.shields.io/badge/-MetaMask-05122A?style=flat&logo=metamask)&nbsp;
 
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 ![Docker Compose](https://img.shields.io/badge/-DockerCompose-05122A?style=flat&logo=docker)&nbsp;
 
 ![JWT](https://img.shields.io/badge/-JWT-05122A?style=flat&logo=jsonwebtokens)&nbsp;
+![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-05122A?style=flat&logo=elasticsearch)&nbsp;
+![Web3.js](https://img.shields.io/badge/-Web3.js-05122A?style=flat&logo=web3.js)&nbsp;
+![Infura](https://img.shields.io/badge/-Infura-05122A?style=flat&logo=infura)&nbsp;
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-05122A?style=flat&logo=rabbitmq)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)&nbsp;
 ![Spring Boot](https://img.shields.io/badge/-SpringBoot-05122A?style=flat&logo=springboot)&nbsp;
+![NestJS](https://img.shields.io/badge/-NestJS-05122A?style=flat&logo=nestjs)&nbsp;
+![FastAPI](https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi)&nbsp;
 
 ![Expo](https://img.shields.io/badge/-Expo-05122A?style=flat&logo=expo)&nbsp;
 
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)&nbsp;
 
 ![Github Pages](https://img.shields.io/badge/-GithubPages-05122A?style=flat&logo=github)&nbsp;
+![Github Actions](https://img.shields.io/badge/-GithubActions-05122A?style=flat&logo=githubactions)&nbsp;
 
 ![Mongoose](https://img.shields.io/badge/-Mongoose-05122A?style=flat&logo=mongoose)&nbsp;
+![Prisma](https://img.shields.io/badge/-Prisma-05122A?style=flat&logo=prisma)&nbsp;
 
 #### 👩‍💻 IDE
 
@@ -108,6 +120,7 @@
 ![Json](https://img.shields.io/badge/-Json-05122A?style=flat&logo=json)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
+![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)&nbsp;
 
 #### 🧐 Linters
 
