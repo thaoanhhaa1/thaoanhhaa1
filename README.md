@@ -1,106 +1,135 @@
 <h1 align="center">Hello World! I'm HaAnhThao 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=React+Developer;Node+Developer;Next+Developer;Nest+Developer&center=true&width=500&height=50">
-</p>
-<div align="center"><img width="200px" src="https://i.pinimg.com/originals/4c/5b/68/4c5b68bb6f2cadd738fa852f32188fd2.gif"/> </div>
-<p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=thaoanhhaa1&label=Profile%20views&color=0e75b6&style=flat" alt="thaoanhhaa1" /> 
-<img src="https://img.shields.io/github/stars/thaoanhhaa1" alt="GitHub User's stars" />
-<img src="https://img.shields.io/github/followers/thaoanhhaa1" alt="GitHub User's followers" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=React+Developer;Node+Developer;Next+Developer;Nest+Developer&center=true&width=500&height=50&color=f75c7e&vCenter=true&size=22&pause=1000">
 </p>
 
-<!-- -   🔭 I’m currently working on [Django Smart Shopping](https://github.com/thaoanhhaa1/Django_Smart_Shopping) -->
+<div align="center">
+  <img width="250px" src="https://i.pinimg.com/originals/4c/5b/68/4c5b68bb6f2cadd738fa852f32188fd2.gif" alt="coding animation"/>
+</div>
 
--   🌱 I’m currently learning **NextJS, SpringBoot, Django, Software Architecture, and other skills...**
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=thaoanhhaa1&label=Profile%20views&color=0e75b6&style=flat" alt="thaoanhhaa1" /> 
+  <img src="https://img.shields.io/github/stars/thaoanhhaa1?style=flat&color=yellow" alt="GitHub User's stars" />
+  <img src="https://img.shields.io/github/followers/thaoanhhaa1?style=flat&color=success" alt="GitHub User's followers" />
+</p>
+
+<!-- -   🔭 I'm currently working on [Django Smart Shopping](https://github.com/thaoanhhaa1/Django_Smart_Shopping) -->
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
+## 🚀 About Me
+
+-   🌱 I'm currently learning **NextJS, SpringBoot, Django, Software Architecture, and other skills...**
 
 -   👨‍💻 All of my projects are available at [GitHub Me](https://github.com/thaoanhhaa1?tab=repositories)
 
--   📫 How to reach me thaoanhhaa1@gmail.com
+-   📫 How to reach me: thaoanhhaa1@gmail.com
 
-### 🛠 &nbsp;Tech Stack
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
-#### 🤖 Artificial Intelligence
+## 🛠 &nbsp;Tech Stack
 
-<img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"> <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlebard&logoColor=fff" /> <img src="https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=github&logoColor=white" />
+<details open>
+<summary><b>🤖 Artificial Intelligence</b></summary>
+<br>
+<p>
+  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlebard&logoColor=fff" /> 
+  <img src="https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+</details>
 
-#### ☁ Cloud
+<details>
+<summary><b>☁ Cloud</b></summary>
+<br>
+<p>
+  <img src="https://img.shields.io/badge/-Heroku-05122A?style=flat&logo=heroku">&nbsp;
+  <img src="https://img.shields.io/badge/-Netlify-05122A?style=flat&logo=netlify">&nbsp;
+  <img src="https://img.shields.io/badge/-Vercel-05122A?style=flat&logo=vercel">&nbsp;
+  <img src="https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase">&nbsp;
+  <img src="https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazonaws">&nbsp;
+  <img src="https://img.shields.io/badge/-Azure-05122A?style=flat&logo=microsoftazure">&nbsp;
+  <img src="https://img.shields.io/badge/-Railway-05122A?style=flat&logo=railway">&nbsp;
+  <img src="https://img.shields.io/badge/-Render-05122A?style=flat&logo=render">&nbsp;
+  <img src="https://img.shields.io/badge/-Koyeb-05122A?style=flat&logo=koyeb">&nbsp;
+  <img src="https://img.shields.io/badge/-VPS-05122A?style=flat&logo=virtualprivatecloud">&nbsp;
+</p>
+</details>
 
-![Heroku](https://img.shields.io/badge/-Heroku-05122A?style=flat&logo=heroku)&nbsp;
-![Netlify](https://img.shields.io/badge/-Netlify-05122A?style=flat&logo=netlify)&nbsp;
-![Vercel](https://img.shields.io/badge/-Vercel-05122A?style=flat&logo=vercel)&nbsp;
-![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)&nbsp;
-![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazonaws)&nbsp;
-![Azure](https://img.shields.io/badge/-Azure-05122A?style=flat&logo=microsoftazure)&nbsp;
-![Railway](https://img.shields.io/badge/-Railway-05122A?style=flat&logo=railway)&nbsp;
-![Render](https://img.shields.io/badge/-Render-05122A?style=flat&logo=render)&nbsp;
-![Koyeb](https://img.shields.io/badge/-Koyeb-05122A?style=flat&logo=koyeb)&nbsp;
-![VPS](https://img.shields.io/badge/-VPS-05122A?style=flat&logo=virtualprivatecloud)&nbsp;
+<details>
+<summary><b>⚡ Database</b></summary>
+<br>
+<p>
+  <img src="https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb">&nbsp;
+  <img src="https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql">&nbsp;
+  <img src="https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql">&nbsp;
+  <img src="https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite">&nbsp;
+  <img src="https://img.shields.io/badge/-MariaDB-05122A?style=flat&logo=mariadb">&nbsp;
+  <img src="https://img.shields.io/badge/-H2-05122A?style=flat&logo=h2">&nbsp;
+  <img src="https://img.shields.io/badge/-SqlServer-05122A?style=flat&logo=microsoftsqlserver">&nbsp;
+  <img src="https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis">&nbsp;
+  <img src="https://img.shields.io/badge/-Qdrant-05122A?style=flat&logo=qdrant">&nbsp;
+</p>
+</details>
 
-#### ⚡ Database
+<details>
+<summary><b>🖍 Design</b></summary>
+<br>
+<p>
+  <img src="https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma">&nbsp;
+</p>
+</details>
 
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
-![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
-![MariaDB](https://img.shields.io/badge/-MariaDB-05122A?style=flat&logo=mariadb)&nbsp;
-![H2](https://img.shields.io/badge/-H2-05122A?style=flat&logo=h2)&nbsp;
-![Sql server](https://img.shields.io/badge/-SqlServer-05122A?style=flat&logo=microsoftsqlserver)&nbsp;
-![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis)&nbsp;
-![Qdrant](https://img.shields.io/badge/-Qdrant-05122A?style=flat&logo=qdrant)&nbsp;
-
-#### 🖍 Design
-
-![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
-
-#### 🚀 Frameworks & Library
-
-![Axios](https://img.shields.io/badge/-Axios-05122A?style=flat&logo=axios)&nbsp;
-![Socket.io](https://img.shields.io/badge/-Socket.io-05122A?style=flat&logo=socket.io)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
-
-![Font Awesome](https://img.shields.io/badge/-FontAwesome-05122A?style=flat&logo=fontawesome)&nbsp;
-![Chart.js](https://img.shields.io/badge/-Chart.js-05122A?style=flat&logo=chart.js)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)&nbsp;
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=tailwindcss)&nbsp;
-![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
-![Styled Components](https://img.shields.io/badge/-StyledComponents-05122A?style=flat&logo=styled-components)&nbsp;
-![Material UI](https://img.shields.io/badge/-MaterialUI-05122A?style=flat&logo=material-ui)&nbsp;
-![Ant Design](https://img.shields.io/badge/-AntDesign-05122A?style=flat&logo=antdesign)&nbsp;
-![MUI](https://img.shields.io/badge/-MUI-05122A?style=flat&logo=material-ui)&nbsp;
-![Handlebars](https://img.shields.io/badge/-Handlebars-05122A?style=flat&logo=handlebars)&nbsp;
-![JQuery](https://img.shields.io/badge/-JQuery-05122A?style=flat&logo=jquery)&nbsp;
-![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![React Router](https://img.shields.io/badge/-ReactRouter-05122A?style=flat&logo=reactrouter)&nbsp;
-![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux)&nbsp;
-![Redux Toolkit](https://img.shields.io/badge/-ReduxToolkit-05122A?style=flat&logo=redux)&nbsp;
-![Vite](https://img.shields.io/badge/-Vite-05122A?style=flat&logo=vite)&nbsp;
-![MetaMask](https://img.shields.io/badge/-MetaMask-05122A?style=flat&logo=metamask)&nbsp;
-
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
-![Docker Compose](https://img.shields.io/badge/-DockerCompose-05122A?style=flat&logo=docker)&nbsp;
-
-![JWT](https://img.shields.io/badge/-JWT-05122A?style=flat&logo=jsonwebtokens)&nbsp;
-![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-05122A?style=flat&logo=elasticsearch)&nbsp;
-![Web3.js](https://img.shields.io/badge/-Web3.js-05122A?style=flat&logo=web3.js)&nbsp;
-![Infura](https://img.shields.io/badge/-Infura-05122A?style=flat&logo=infura)&nbsp;
-![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-05122A?style=flat&logo=rabbitmq)&nbsp;
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)&nbsp;
-![Spring Boot](https://img.shields.io/badge/-SpringBoot-05122A?style=flat&logo=springboot)&nbsp;
-![NestJS](https://img.shields.io/badge/-NestJS-05122A?style=flat&logo=nestjs)&nbsp;
-![FastAPI](https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi)&nbsp;
-
-![Expo](https://img.shields.io/badge/-Expo-05122A?style=flat&logo=expo)&nbsp;
-
-![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)&nbsp;
-
-![Github Pages](https://img.shields.io/badge/-GithubPages-05122A?style=flat&logo=github)&nbsp;
-![Github Actions](https://img.shields.io/badge/-GithubActions-05122A?style=flat&logo=githubactions)&nbsp;
-
-![Mongoose](https://img.shields.io/badge/-Mongoose-05122A?style=flat&logo=mongoose)&nbsp;
-![Prisma](https://img.shields.io/badge/-Prisma-05122A?style=flat&logo=prisma)&nbsp;
+<details>
+<summary><b>🚀 Frameworks & Library</b></summary>
+<br>
+<p>
+  <img src="https://img.shields.io/badge/-Axios-05122A?style=flat&logo=axios">&nbsp;
+  <img src="https://img.shields.io/badge/-Socket.io-05122A?style=flat&logo=socket.io">&nbsp;
+  <img src="https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript">&nbsp;
+  <img src="https://img.shields.io/badge/-FontAwesome-05122A?style=flat&logo=fontawesome">&nbsp;
+  <img src="https://img.shields.io/badge/-Chart.js-05122A?style=flat&logo=chart.js">&nbsp;
+  <img src="https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap">&nbsp;
+  <img src="https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=tailwindcss">&nbsp;
+  <img src="https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass">&nbsp;
+  <img src="https://img.shields.io/badge/-StyledComponents-05122A?style=flat&logo=styled-components">&nbsp;
+  <img src="https://img.shields.io/badge/-MaterialUI-05122A?style=flat&logo=material-ui">&nbsp;
+  <img src="https://img.shields.io/badge/-AntDesign-05122A?style=flat&logo=antdesign">&nbsp;
+  <img src="https://img.shields.io/badge/-MUI-05122A?style=flat&logo=material-ui">&nbsp;
+  <img src="https://img.shields.io/badge/-Handlebars-05122A?style=flat&logo=handlebars">&nbsp;
+  <img src="https://img.shields.io/badge/-JQuery-05122A?style=flat&logo=jquery">&nbsp;
+  <img src="https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js">&nbsp;
+  <img src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react">&nbsp;
+  <img src="https://img.shields.io/badge/-ReactRouter-05122A?style=flat&logo=reactrouter">&nbsp;
+  <img src="https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux">&nbsp;
+  <img src="https://img.shields.io/badge/-ReduxToolkit-05122A?style=flat&logo=redux">&nbsp;
+  <img src="https://img.shields.io/badge/-Vite-05122A?style=flat&logo=vite">&nbsp;
+  <img src="https://img.shields.io/badge/-MetaMask-05122A?style=flat&logo=metamask">&nbsp;
+  <img src="https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker">&nbsp;
+  <img src="https://img.shields.io/badge/-DockerCompose-05122A?style=flat&logo=docker">&nbsp;
+  <img src="https://img.shields.io/badge/-JWT-05122A?style=flat&logo=jsonwebtokens">&nbsp;
+  <img src="https://img.shields.io/badge/-Elasticsearch-05122A?style=flat&logo=elasticsearch">&nbsp;
+  <img src="https://img.shields.io/badge/-Web3.js-05122A?style=flat&logo=web3.js">&nbsp;
+  <img src="https://img.shields.io/badge/-Infura-05122A?style=flat&logo=infura">&nbsp;
+  <img src="https://img.shields.io/badge/-RabbitMQ-05122A?style=flat&logo=rabbitmq">&nbsp;
+  <img src="https://img.shields.io/badge/-Django-05122A?style=flat&logo=django">&nbsp;
+  <img src="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js">&nbsp;
+  <img src="https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express">&nbsp;
+  <img src="https://img.shields.io/badge/-SpringBoot-05122A?style=flat&logo=springboot">&nbsp;
+  <img src="https://img.shields.io/badge/-NestJS-05122A?style=flat&logo=nestjs">&nbsp;
+  <img src="https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi">&nbsp;
+  <img src="https://img.shields.io/badge/-Expo-05122A?style=flat&logo=expo">&nbsp;
+  <img src="https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase">&nbsp;
+  <img src="https://img.shields.io/badge/-GithubPages-05122A?style=flat&logo=github">&nbsp;
+  <img src="https://img.shields.io/badge/-GithubActions-05122A?style=flat&logo=githubactions">&nbsp;
+  <img src="https://img.shields.io/badge/-Mongoose-05122A?style=flat&logo=mongoose">&nbsp;
+  <img src="https://img.shields.io/badge/-Prisma-05122A?style=flat&logo=prisma">&nbsp;
+</p>
+</details>
 
 #### 👩‍💻 IDE
 
@@ -172,17 +201,39 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/thaoanhhaa1">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=thaoanhhaa1&show_icons=true&locale=en&layout=compact&theme=nightowl&hide_border=true" alt="thaoanhhaa1" height=150px/><img src="https://github-readme-stats.vercel.app/api?username=thaoanhhaa1&show_icons=true&locale=en&theme=nightowl&hide_border=true" alt="thaoanhhaa1" height=150px />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=thaoanhhaa1&theme=nightowl&hide_border=true" alt="thaoanhhaa1"/>
-</a>
+  <a href="https://github.com/thaoanhhaa1">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thaoanhhaa1&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="thaoanhhaa1" height=150px/>
+    <img src="https://github-readme-stats.vercel.app/api?username=thaoanhhaa1&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="thaoanhhaa1" height=150px />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=thaoanhhaa1&theme=tokyonight&hide_border=true" alt="thaoanhhaa1"/>
+  </a>
 </p>
 
-### 🤝🏻 &nbsp;Connect with Me
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=thaoanhhaa1&theme=tokyonight&no-frame=true&row=1&&margin-w=30&no-bg=true">
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
+## 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="mailto:thaoanhhaa1@gmail.com"><img src="https://img.shields.io/badge/-Mail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/thaoanhhaa1/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://www.instagram.com/thaoanhhaa1/?hl=en"><img src="https://img.shields.io/badge/-Instagram-E1306C?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.facebook.com/teamlayloia1/"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+  <a href="mailto:thaoanhhaa1@gmail.com">
+    <img src="https://img.shields.io/badge/-Mail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/thaoanhhaa1/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/thaoanhhaa1/?hl=en">
+    <img src="https://img.shields.io/badge/-Instagram-E1306C?style=for-the-badge&logo=Instagram&logoColor=white"/>
+  </a>
+  <a href="https://www.facebook.com/teamlayloia1/">
+    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white"/>
+  </a>
 </p>
+
+<div align="center">
+  <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+  <br />
+</div>
